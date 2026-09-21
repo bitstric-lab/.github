@@ -1,9 +1,10 @@
 ![alt text](bitstric_banner.png)
 
-[Bitstric](https://bitstric.com) delivers asset-light Sovereign AI and Agentic Workflow architectures engineered explicitly for real-world workflow reliability. 
+**Sovereign AI and agentic-workflow architectures for regulated, high-consequence operations, built to run reliably on private infrastructure.**
 
-We deploy multi-lingual automated chat brokers, accelerated document ingestion pipelines, and inline pre-inference validation layers that bridge digital workloads into private infrastructure. Our framework eliminates the operational volatility and data residency leaks inherent in public cloud models.
+This org is the public developer surface of the **Bitstric Ecosystem**. It hosts open-core utilities and reference architectures so engineering teams can evaluate, then adopt, private-infrastructure AI with data residency held by default.
 
-We actively target high-consequence sectors—including Healthcare, Manufacturing, Robotics, FMCG, Utilities, and Finance—operating across complex regulatory corridors. 
+Sovereignty-by-default: regulated data stays in-jurisdiction unless the customer explicitly configures and consents otherwise.
 
-Our open-core software utilities seamlessly guide enterprise clients into a structured commercial step-ladder. This process routes targets from upfront paid risk reviews directly into localized, sandbox-integrated edge system deployments.
+Where we operate
+Finance · Public Sector · Healthcare · Energy & Utilities, across APAC regulatory corridors.
