@@ -1,5 +1,3 @@
-![alt text](bitstric_banner.png)
-
 **Sovereign AI and agentic-workflow architectures for regulated, high-consequence operations, built to run reliably on private infrastructure.**
 
 This org is the public developer surface of the **Bitstric Ecosystem**. It hosts open-core utilities and reference architectures so engineering teams can evaluate, then adopt, private-infrastructure AI with data residency held by default.
